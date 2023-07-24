@@ -284,3 +284,8 @@ obj-y += FreeRTOS/stream_buffer.o
 # libdw1000
 obj-y += libdw1000/src/libdw1000.o
 obj-y += libdw1000/src/libdw1000Spi.o
+
+# nanopb
+obj-y += nanopb/pb_common.o
+obj-y += nanopb/pb_decode.o
+obj-y += nanopb/pb_encode.o
