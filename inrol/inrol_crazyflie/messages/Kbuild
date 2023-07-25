@@ -1,0 +1,1 @@
+obj-y += proto_io.o
