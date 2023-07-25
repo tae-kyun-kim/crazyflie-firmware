@@ -1,1 +1,2 @@
 obj-y += app_nanopb_test.o
+obj-y += proto/

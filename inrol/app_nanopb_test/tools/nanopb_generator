@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 ../../vendor/nanopb/generator/nanopb_generator.py proto/message.proto
