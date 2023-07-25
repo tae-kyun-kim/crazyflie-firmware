@@ -52,3 +52,4 @@ tools/dependency/web/data.js
 compile_commands.json
 *.pb.c
 *.pb.h
+*_pb2.py
